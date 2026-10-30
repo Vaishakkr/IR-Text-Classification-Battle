@@ -49,7 +49,7 @@ The imbalance ratio (largest class ÷ smallest) is 1.45, so the classes are only
 ![what-if A](figures/04_whatif_vocab_size.png)
 ![what-if B](figures/05_whatif_knn_k.png)
 
-The full discussion is in [`report/`](report/).
+The project document is in [`report/`](report/).
 
 ## How to run
 
