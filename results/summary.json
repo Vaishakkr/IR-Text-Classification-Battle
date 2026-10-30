@@ -1,0 +1,8 @@
+{
+  "documents": 2126,
+  "duplicates_removed": 99,
+  "train": 1700,
+  "test": 426,
+  "vocabulary": 9881,
+  "best_model": "SVM (Linear)"
+}

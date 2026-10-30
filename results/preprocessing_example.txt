@@ -1,0 +1,7 @@
+CLASS : tech
+
+BEFORE (first 60 words):
+tv future in the hands of viewers with home theatre systems plasma high-definition tvs and digital video recorders moving into the living room the way people watch tv will be radically different in five years time. that is according to an expert panel which gathered at the annual consumer electronics show in las vegas to discuss how these new technologies
+
+AFTER (first 40 tokens):
+futur hand viewer home theatr system plasma high definit tv digit video record move live room way peopl watch radic differ year time accord expert panel gather annual consum electron la vega discuss new technolog impact favourit pastim lead trend

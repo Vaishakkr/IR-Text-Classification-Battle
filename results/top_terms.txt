@@ -1,0 +1,17 @@
+Top 10 SVM weights per class
+  business      : bank, firm, compani, econom, market, financi, share, profit, invest, price
+  entertainment : film, star, music, singer, band, chart, album, actor, song, book
+  politics      : parti, minist, secretari, labour, blair, tori, lord, mp, govern, britain
+  sport         : coach, club, match, olymp, athlet, cup, player, injuri, win, rugbi
+  tech          : comput, user, use, onlin, technolog, game, softwar, peopl, video, websit
+
+Top 10 Naive Bayes log-probabilities per class
+  business      : said, compani, market, firm, year, bank, growth, share, economi, price
+  entertainment : film, star, award, music, year, best, said, includ, actor, band
+  politics      : labour, elect, parti, said, govern, tori, minist, blair, say, plan
+  sport         : game, play, win, player, match, said, team, champion, coach, cup
+  tech          : use, technolog, user, peopl, comput, said, mobil, net, phone, onlin
+
+Decision Tree
+  depth = 35, leaves = 135, features actually used = 123 of 9881
+  top-10 split features: tori, game, user, film, market, music, minist, compani, win, player
